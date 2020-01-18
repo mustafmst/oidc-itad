@@ -27,6 +27,7 @@ namespace WebApplication.OpenId.Example.Client
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            
             services.AddAuthentication(o =>
                     {
                         o.DefaultScheme = CookieAuthenticationDefaults.AuthenticationScheme;
@@ -37,7 +38,7 @@ namespace WebApplication.OpenId.Example.Client
                 {
                     o.Authority = "http://localhost:8080/auth/realms/master";
                     o.ClientId = "web-app";
-                    o.ClientSecret = "accf6640-7ab7-4822-ad65-f7757c739c92";
+                    o.ClientSecret = "12fa6bc1-425a-4d6e-a0b4-1a1ed99989c7";
                     o.RequireHttpsMetadata = false;
                     o.ResponseType = OpenIdConnectResponseType.CodeIdToken;
                     o.SignedOutRedirectUri = "/";
