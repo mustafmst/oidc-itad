@@ -1,10 +1,10 @@
 # Prezentacja i materiały na temat OpenID Connect
 
-## Plan
-- zrobić prezentację teoretyczną
-- przygotować keycloaka pod prezentację
-- powiedzieć o IdentityServer
-- zrobić przykłady
-  - dotnet core
-  - python
-  - nodejs
+## Uruchamianie
+
+### Keycloak
+
+1. W katalogu `keycloak` uruchom polecenie `docker-compose up`
+2. Idź do `http://localhost:8080`
+3. Zaloguj się do panelu administratora. Urzytkownik: `admin`, hasło: `admin`
+
