@@ -33,3 +33,13 @@
 /home/pawel/projects/conf/openid-connect/WebApplication.OpenId.Example.Client/obj/Debug/netcoreapp3.0/WebApplication.OpenId.Example.Client.dll
 /home/pawel/projects/conf/openid-connect/WebApplication.OpenId.Example.Client/obj/Debug/netcoreapp3.0/WebApplication.OpenId.Example.Client.pdb
 /home/pawel/projects/conf/openid-connect/WebApplication.OpenId.Example.Client/obj/Debug/netcoreapp3.0/WebApplication.OpenId.Example.Client.csproj.CopyComplete
+/home/pawel/projects/conf/openid-connect/WebApplication.OpenId.Example.Client/obj/Debug/netcoreapp3.0/Razor/Views/Home/Profile.cshtml.g.cs
+/home/pawel/projects/conf/openid-connect/WebApplication.OpenId.Example.Client/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+/home/pawel/projects/conf/openid-connect/WebApplication.OpenId.Example.Client/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/pawel/projects/conf/openid-connect/WebApplication.OpenId.Example.Client/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Logging.dll
+/home/pawel/projects/conf/openid-connect/WebApplication.OpenId.Example.Client/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Protocols.dll
+/home/pawel/projects/conf/openid-connect/WebApplication.OpenId.Example.Client/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/pawel/projects/conf/openid-connect/WebApplication.OpenId.Example.Client/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Tokens.dll
+/home/pawel/projects/conf/openid-connect/WebApplication.OpenId.Example.Client/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/home/pawel/projects/conf/openid-connect/WebApplication.OpenId.Example.Client/bin/Debug/netcoreapp3.0/System.IdentityModel.Tokens.Jwt.dll
+/home/pawel/projects/conf/openid-connect/WebApplication.OpenId.Example.Client/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.DataProtection.Abstractions.dll

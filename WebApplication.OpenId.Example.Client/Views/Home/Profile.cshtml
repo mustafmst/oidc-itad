@@ -1,0 +1,16 @@
+@using System.Security.Claims
+@{
+    ClaimsPrincipal user = Context.User;
+}
+
+
+<h1>Profile Page</h1>
+
+<p>Is Authenticated: @user.Identity.IsAuthenticated</p>
+
+<ul>
+@foreach (var claim in user.Claims)
+{
+    <li><b>@claim</b></li>
+}
+</ul>
